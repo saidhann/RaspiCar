@@ -1,0 +1,3 @@
+/home/saidhan/Desktop/RaspiCar/build/CMakeFiles/MyHttpServer.dir
+/home/saidhan/Desktop/RaspiCar/build/CMakeFiles/edit_cache.dir
+/home/saidhan/Desktop/RaspiCar/build/CMakeFiles/rebuild_cache.dir
